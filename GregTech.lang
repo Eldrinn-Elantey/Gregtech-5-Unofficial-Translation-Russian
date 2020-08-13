@@ -7,15 +7,15 @@ enablelangfile {
 
 languagefile {
     S:"Book.Microwave Oven Manual.Name"=Микроволновая печь Руководство
-    S:"Book.Microwave Oven Manual.Page00"=Congratulations, you inserted a random seemingly empty Book into the Microwave and these Letters appeared out of nowhere.
+    S:"Book.Microwave Oven Manual.Page00"=Поздравляем, вы вставили в микроволновку случайную, казалось бы, пустую Книгу, и эти письма появились из ниоткуда.
     S:"Book.Microwave Oven Manual.Page01"=You just got a Microwave Oven and asked yourself 'why do I even need it?'. It's simple, the Microwave can cook for just 128 EU and at an insane speed. Not even a normal E-furnace can do it that fast and cheap!
     S:"Book.Microwave Oven Manual.Page02"=This is the cheapest and fastest way to cook for you. That is why the Microwave Oven can be found in almost every Kitchen (see www.youwannabuyakitchen.ly).
     S:"Book.Microwave Oven Manual.Page03"=Long time exposure to Microwaves can cause Cancer, but we doubt Steve lives long enough to die because of that.
     S:"Book.Microwave Oven Manual.Page04"=Do not insert any Metals. It might result in an Explosion.
     S:"Book.Microwave Oven Manual.Page05"=Do not dry Animals with it. It will result in a Hot Dog, no matter which Animal you put into it.
     S:"Book.Microwave Oven Manual.Page06"=Do not insert inflammable Objects. The Oven will catch on Fire.
-    S:"Book.Microwave Oven Manual.Page07"=Do not insert Explosives such as Eggs. Just don't.
-    S:"Book.Printer Manual V2.0.Name"=Printer Manual V2.0
+    S:"Book.Microwave Oven Manual.Page07"=Не вставляйте взрывчатые вещества, например, яйца. Не надо!
+    S:"Book.Printer Manual V2.0.Name"=Руководство к принтеру, V2.0
     S:"Book.Printer Manual V2.0.Page00"=This Manual explains the different Functionalities the GregTech Printing Factory has built in, which are not in NEI. Most got NEI Support now, but there is still some left without it.
     S:"Book.Printer Manual V2.0.Page01"=1. Coloring Items and Blocks: You know those Crafting Recipes, which have a dye surrounded by 8 Item to dye them? Or the ones which have just one Item and one Dye in the Grid? Those two Recipe Types can be cheaply automated using the Printer.
     S:"Book.Printer Manual V2.0.Page02"=The Colorization Functionality even optimizes the Recipes, which normally require 8 Items + 1 Dye to 1 Item and an 8th of the normally used Dye in Fluid Form, isn't that awesome?
@@ -447,11 +447,11 @@ languagefile {
     S:Material.aceticacid=Acetic Acid
     S:Material.acetone=Acetone
     S:Material.adamantium=Adamantium
-    S:Material.adamite=Adamite
+    S:Material.adamite=Адамин
     S:Material.adluorite=Adluorite
     S:Material.advanced=Advanced
     S:Material.agate=Agate
-    S:Material.air=Air
+    S:Material.air=Воздух
     S:Material.alduorite=Alduorite
     S:Material.alfium=Alfium
     S:Material.allylchloride=Allyl Chloride
@@ -1438,13 +1438,13 @@ languagefile {
     S:TileEntity_DESCRIPTION_10904_Index_0=Imprinting Images into things
     S:TileEntity_DESCRIPTION_10905_Index_0=Imprinting Images into things
     S:TileEntity_DESCRIPTION_10906_Index_0=Imprinting Images into things
-    S:TileEntity_DESCRIPTION_10910_Index_0=Stop, Hammertime!
-    S:TileEntity_DESCRIPTION_10911_Index_0=Stop, Hammertime!
-    S:TileEntity_DESCRIPTION_10912_Index_0=Stop, Hammertime!
-    S:TileEntity_DESCRIPTION_10913_Index_0=Stop, Hammertime!
-    S:TileEntity_DESCRIPTION_10914_Index_0=Stop, Hammertime!
-    S:TileEntity_DESCRIPTION_10915_Index_0=Stop, Hammertime!
-    S:TileEntity_DESCRIPTION_10916_Index_0=Stop, Hammertime!
+    S:TileEntity_DESCRIPTION_10910_Index_0=Стоп, время молотка!
+    S:TileEntity_DESCRIPTION_10911_Index_0=Стоп, время молотка!
+    S:TileEntity_DESCRIPTION_10912_Index_0=Стоп, время молотка!
+    S:TileEntity_DESCRIPTION_10913_Index_0=Стоп, время молотка!
+    S:TileEntity_DESCRIPTION_10914_Index_0=Стоп, время молотка!
+    S:TileEntity_DESCRIPTION_10915_Index_0=Стоп, время молотка!
+    S:TileEntity_DESCRIPTION_10916_Index_0=Стоп, время молотка!
     S:TileEntity_DESCRIPTION_10920_Index_0=Produces Rods more efficiently
     S:TileEntity_DESCRIPTION_10921_Index_0=Produces Rods more efficiently
     S:TileEntity_DESCRIPTION_10922_Index_0=Produces Rods more efficiently
@@ -54572,18 +54572,18 @@ languagefile {
     S:tc.research_text.GT_MAGICENERGY3=[GT] Magic to Power
     S:tc.research_text.GT_TRANSALUMINIUM=[GT] Transformation of metals into aluminium
     S:tc.research_text.GT_TRANSANTIMONY=[GT] Transformation of metals into antimony
-    S:tc.research_text.GT_TRANSBATTERYALLOY=[GT] Transformation of metals into battery alloy
-    S:tc.research_text.GT_TRANSBISMUTH=[GT] Transformation of metals into bismuth
-    S:tc.research_text.GT_TRANSBRASS=[GT] Transformation of metals into brass
-    S:tc.research_text.GT_TRANSBRONZE=[GT] Transformation of metals into bronze
-    S:tc.research_text.GT_TRANSCOBALT=[GT] Transformation of metals into cobalt
-    S:tc.research_text.GT_TRANSCUPRONICKEL=[GT] Transformation of metals into cupronickel
-    S:tc.research_text.GT_TRANSELECTRUM=[GT] Transformation of metals into electrum
-    S:tc.research_text.GT_TRANSINVAR=[GT] Transformation of metals into invar
-    S:tc.research_text.GT_TRANSNICKEL=[GT] Transformation of metals into nickel
-    S:tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] Transformation of metals into soldering alloy
-    S:tc.research_text.GT_TRANSZINC=[GT] Transformation of metals into zinc
-    S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] Turning wood into charcoal
+    S:tc.research_text.GT_TRANSBATTERYALLOY=[GT] Превращение металлов в аккумуляторный сплав
+    S:tc.research_text.GT_TRANSBISMUTH=[GT] Превращение металлов в висмут
+    S:tc.research_text.GT_TRANSBRASS=[GT] Превращение металлов в латунь
+    S:tc.research_text.GT_TRANSBRONZE=[GT] Превращение металлов в бронзу
+    S:tc.research_text.GT_TRANSCOBALT=[GT] Превращение металлов в кобальт
+    S:tc.research_text.GT_TRANSCUPRONICKEL=[GT] Превращение металлов в купроникель
+    S:tc.research_text.GT_TRANSELECTRUM=[GT] Превращение металлов в электрум
+    S:tc.research_text.GT_TRANSINVAR=[GT] Превращение металлов в инвар
+    S:tc.research_text.GT_TRANSNICKEL=[GT] Превращение металлов в никель
+    S:tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] Превращение металлов в припой
+    S:tc.research_text.GT_TRANSZINC=[GT] Превращение металлов в цинк
+    S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] Превращение дерева в древесный уголь
 }
 
 
