@@ -736,10 +736,10 @@ languagefile {
     S:Material.glycerol=Glycerol
     S:Material.glyceryl=Glyceryl Trinitrate
     S:Material.gneiss=Gneiss
-    S:Material.gold=Gold
+    S:Material.gold=Золото
     S:Material.good=Good
     S:Material.graniteblack=Black Granite
-    S:Material.granitered=Red Granite
+    S:Material.granitered=Красный Гранит
     S:Material.graniticmineralsand=Granitic Mineral Sand
     S:Material.graphene=Graphene
     S:Material.graphite=Graphite
@@ -797,7 +797,7 @@ languagefile {
     S:Material.infusedvis=Auram
     S:Material.infusedwater=Aqua
     S:Material.inolashite=Inolashite
-    S:Material.invar=Invar
+    S:Material.invar=Инвар
     S:Material.invisium=Invisium
     S:Material.iridium=Iridium
     S:Material.iridiumsodiumoxide=Iridium Sodium Oxide
@@ -817,9 +817,9 @@ languagefile {
     S:Material.kyanite=Kyanite
     S:Material.lanthanum=Lanthanum
     S:Material.lapis=Lapis
-    S:Material.lava=Lava
+    S:Material.lava=Лава
     S:Material.lazurite=Lazurite
-    S:Material.lead=Lead
+    S:Material.lead=Свинец
     S:Material.leather=Leather
     S:Material.ledox=Ledox
     S:Material.lemurite=Lemurite
