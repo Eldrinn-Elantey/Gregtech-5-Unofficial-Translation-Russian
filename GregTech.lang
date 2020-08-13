@@ -1005,7 +1005,7 @@ languagefile {
     S:Material.quartzite=Quartzite
     S:Material.quartzsand=Quartz Sand
     S:Material.quicklime=Quicklime
-    S:Material.radon=Radon
+    S:Material.radon=Радон
     S:Material.radoxgas=Radox Gas
     S:Material.radoxpoly=Radox Polymer
     S:Material.randomite=Randomite
@@ -1026,13 +1026,13 @@ languagefile {
     S:Material.rhyolite=Rhyolite
     S:Material.rocksalt=Rock Salt
     S:Material.rosegold=Rose Gold
-    S:Material.rubber=Rubber
+    S:Material.rubber=Резина
     S:Material.rubbertreesap=Rubber Tree Sap
     S:Material.rubidium=Rubidium
     S:Material.rubracium=Rubracium
     S:Material.ruby=Ruby
     S:Material.rutile=Rutile
-    S:Material.salt=Salt
+    S:Material.salt=Соль
     S:Material.saltpeter=Saltpeter
     S:Material.saltwater=Salt Water
     S:Material.samarium=Samarium
