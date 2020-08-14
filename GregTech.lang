@@ -19565,7 +19565,7 @@ languagefile {
     S:gt.blockores.303.name=%material Ore
     S:gt.blockores.3030.name=%material Ore
     S:gt.blockores.3031.name=%material Ore
-    S:gt.blockores.3032.name=%material Ore
+    S:gt.blockores.3032.name=Железная руда
     S:gt.blockores.3033.name=%material Ore
     S:gt.blockores.3034.name=%material Ore
     S:gt.blockores.3035.name=%material Ore
@@ -19635,7 +19635,7 @@ languagefile {
     S:gt.blockores.317.name=%material Ore
     S:gt.blockores.318.name=%material Ore
     S:gt.blockores.319.name=%material Ore
-    S:gt.blockores.32.name=%material Ore
+    S:gt.blockores.32.name=Железная руда
     S:gt.blockores.320.name=%material Ore
     S:gt.blockores.321.name=%material Ore
     S:gt.blockores.322.name=%material Ore
@@ -19794,7 +19794,7 @@ languagefile {
     S:gt.blockores.3495.name=%material Ore
     S:gt.blockores.3496.name=%material Ore
     S:gt.blockores.3497.name=%material Ore
-    S:gt.blockores.35.name=%material Ore
+    S:gt.blockores.35.name=Медная руда
     S:gt.blockores.350.name=%material Ore
     S:gt.blockores.3500.name=%material Ore
     S:gt.blockores.3501.name=%material Ore
@@ -22286,7 +22286,7 @@ languagefile {
     S:gt.blockores.831.name=%material Ore
     S:gt.blockores.832.name=%material Ore
     S:gt.blockores.833.name=%material Ore
-    S:gt.blockores.834.name=%material Ore
+    S:gt.blockores.834.name=Пиритовая руда
     S:gt.blockores.835.name=%material Ore
     S:gt.blockores.836.name=%material Ore
     S:gt.blockores.837.name=%material Ore
@@ -22309,7 +22309,7 @@ languagefile {
     S:gt.blockores.852.name=%material Ore
     S:gt.blockores.853.name=%material Ore
     S:gt.blockores.854.name=%material Ore
-    S:gt.blockores.855.name=%material Ore
+    S:gt.blockores.855.name=Халькопиритовая руда
     S:gt.blockores.857.name=%material Ore
     S:gt.blockores.858.name=%material Ore
     S:gt.blockores.859.name=%material Ore
@@ -31701,7 +31701,7 @@ languagefile {
     S:gt.metaitem.01.22988.tooltip=TiBa₉Cu₁₀O₂₀
     S:gt.metaitem.01.22989.name=Dense %material Plate
     S:gt.metaitem.01.22989.tooltip=UPt₃
-    S:gt.metaitem.01.2299.name=%material Dust
+    S:gt.metaitem.01.2299.name=Каменная пыль
     S:gt.metaitem.01.2299.tooltip=
     S:gt.metaitem.01.22990.name=Dense %material Plate
     S:gt.metaitem.01.22990.tooltip=VIn₃
@@ -35585,13 +35585,13 @@ languagefile {
     S:gt.metaitem.01.3030.tooltip=Cr
     S:gt.metaitem.01.3031.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3031.tooltip=Mn
-    S:gt.metaitem.01.3032.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3032.name=Неочищенная куча железной пыли
     S:gt.metaitem.01.3032.tooltip=Fe
     S:gt.metaitem.01.3033.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3033.tooltip=Co
     S:gt.metaitem.01.3034.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3034.tooltip=Ni
-    S:gt.metaitem.01.3035.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3035.name=Неочищенная куча медной пыли
     S:gt.metaitem.01.3035.tooltip=Cu
     S:gt.metaitem.01.3036.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3036.tooltip=Zn
@@ -35639,7 +35639,7 @@ languagefile {
     S:gt.metaitem.01.3052.tooltip=Pd
     S:gt.metaitem.01.30534.name=%material Cell
     S:gt.metaitem.01.30534.tooltip=Ca₃(PO₄)₂
-    S:gt.metaitem.01.3054.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3054.name=Неочищенная куча серебряной пыли
     S:gt.metaitem.01.3054.tooltip=Ag
     S:gt.metaitem.01.3055.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3055.tooltip=Cd
@@ -35931,7 +35931,7 @@ languagefile {
     S:gt.metaitem.01.3085.tooltip=Pt
     S:gt.metaitem.01.30853.name=%material Cell
     S:gt.metaitem.01.30853.tooltip=
-    S:gt.metaitem.01.3086.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3086.name=Неочищенная куча золотой пыли
     S:gt.metaitem.01.3086.tooltip=Au
     S:gt.metaitem.01.30865.name=%material Cell
     S:gt.metaitem.01.30865.tooltip=
@@ -36951,7 +36951,7 @@ languagefile {
     S:gt.metaitem.01.328.tooltip=Du
     S:gt.metaitem.01.329.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.329.tooltip=Tn
-    S:gt.metaitem.01.3299.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3299.name=Неочищенная куча каменной пыли
     S:gt.metaitem.01.3299.tooltip=
     S:gt.metaitem.01.33.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.33.tooltip=Co
@@ -37063,7 +37063,7 @@ languagefile {
     S:gt.metaitem.01.35.tooltip=Cu
     S:gt.metaitem.01.350.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.350.tooltip=CuAg₄
-    S:gt.metaitem.01.3500.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3500.name=Неочищенная куча алмазной пыли
     S:gt.metaitem.01.3500.tooltip=C
     S:gt.metaitem.01.3501.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3501.tooltip=Be₃Al₂Si₆O₁₈
@@ -37219,7 +37219,7 @@ languagefile {
     S:gt.metaitem.01.3808.tooltip=
     S:gt.metaitem.01.381.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.381.tooltip=Si(FeS₂)₅CrAl₂O₃Hg₃SiC
-    S:gt.metaitem.01.3810.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3810.name=Неочищенная куча пыли красного камня
     S:gt.metaitem.01.3810.tooltip=Si(FeS₂)₅CrAl₂O₃Hg₃
     S:gt.metaitem.01.3812.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3812.tooltip=Rp
@@ -37255,7 +37255,7 @@ languagefile {
     S:gt.metaitem.01.3831.tooltip=Ca₃Al₂Si₃O₁₂
     S:gt.metaitem.01.3833.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3833.tooltip=PO₄
-    S:gt.metaitem.01.3834.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3834.name=Неочищенная куча пиритовой пыли
     S:gt.metaitem.01.3834.tooltip=FeS₂
     S:gt.metaitem.01.3835.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3835.tooltip=Al₂Mg₃Si₃O₁₂
@@ -37285,7 +37285,7 @@ languagefile {
     S:gt.metaitem.01.385.tooltip=
     S:gt.metaitem.01.3850.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3850.tooltip=Al₂KAlSi₃O₈O₃
-    S:gt.metaitem.01.3855.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3855.name=Неочищенная куча халькопиритовой пыли
     S:gt.metaitem.01.3855.tooltip=CuFeS₂
     S:gt.metaitem.01.386.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.386.tooltip=AiCo
@@ -37383,7 +37383,7 @@ languagefile {
     S:gt.metaitem.01.3926.tooltip=
     S:gt.metaitem.01.3927.name=Impure Pile of %material
     S:gt.metaitem.01.3927.tooltip=NaMg₆Si₁₂H₆(H₂O)₅O₃₆
-    S:gt.metaitem.01.3928.name=Impure Pile of %material
+    S:gt.metaitem.01.3928.name=Неочищенная куча фуллеровской земли
     S:gt.metaitem.01.3928.tooltip=MgSi₄H(H₂O)₄O₁₁
     S:gt.metaitem.01.3929.name=Impure Pile of %material
     S:gt.metaitem.01.3929.tooltip=Al₂Si₂H₄O₉
@@ -37397,11 +37397,11 @@ languagefile {
     S:gt.metaitem.01.3932.tooltip=Fe₃Al₄Si₄H₂(H₂O)₄O₁₂
     S:gt.metaitem.01.3933.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3933.tooltip=KMg₂Al₄H₂O₁₂
-    S:gt.metaitem.01.3934.name=Impure Pile of %material Dust
+    S:gt.metaitem.01.3934.name=Неочищенная куча гипсовой пыли
     S:gt.metaitem.01.3934.tooltip=CaS(H₂O)₂O₄
-    S:gt.metaitem.01.3935.name=Impure Pile of %material
+    S:gt.metaitem.01.3935.name=Неочищенная куча базальтового минерального песка
     S:gt.metaitem.01.3935.tooltip=Fe₃O₄Mg₂Fe(SiO₂)₂(CaCO₃)₃(SiO₂)₈C₄
-    S:gt.metaitem.01.3936.name=Impure Pile of %material
+    S:gt.metaitem.01.3936.name=Неочищенная куча гранитного минерального песка
     S:gt.metaitem.01.3936.tooltip=Fe₃O₄(SiO₂)₄KMg₃Al₃F₂Si₃O₁₀
     S:gt.metaitem.01.3937.name=Impure Pile of %material
     S:gt.metaitem.01.3937.tooltip=SnO₂
@@ -38043,9 +38043,9 @@ languagefile {
     S:gt.metaitem.01.5032.tooltip=Fe
     S:gt.metaitem.01.5033.name=Crushed %material Ore
     S:gt.metaitem.01.5033.tooltip=Co
-    S:gt.metaitem.01.5034.name=Crushed %material Ore
+    S:gt.metaitem.01.5034.name=Дробленая никелевая руда
     S:gt.metaitem.01.5034.tooltip=Ni
-    S:gt.metaitem.01.5035.name=Crushed %material Ore
+    S:gt.metaitem.01.5035.name=Дробленая медная руда
     S:gt.metaitem.01.5035.tooltip=Cu
     S:gt.metaitem.01.5036.name=Crushed %material Ore
     S:gt.metaitem.01.5036.tooltip=Zn
@@ -38131,7 +38131,7 @@ languagefile {
     S:gt.metaitem.01.5084.tooltip=Ir
     S:gt.metaitem.01.5085.name=Crushed %material Ore
     S:gt.metaitem.01.5085.tooltip=Pt
-    S:gt.metaitem.01.5086.name=Crushed %material Ore
+    S:gt.metaitem.01.5086.name=Дробленая золотая руда
     S:gt.metaitem.01.5086.tooltip=Au
     S:gt.metaitem.01.5089.name=Crushed %material Ore
     S:gt.metaitem.01.5089.tooltip=Pb
@@ -38291,7 +38291,7 @@ languagefile {
     S:gt.metaitem.01.5490.tooltip=
     S:gt.metaitem.01.55.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.55.tooltip=Cd
-    S:gt.metaitem.01.5500.name=Crushed %material Ore
+    S:gt.metaitem.01.5500.name=Дробленая алмазная руда
     S:gt.metaitem.01.5500.tooltip=C
     S:gt.metaitem.01.5501.name=Crushed %material Ore
     S:gt.metaitem.01.5501.tooltip=Be₃Al₂Si₆O₁₈
@@ -38383,7 +38383,7 @@ languagefile {
     S:gt.metaitem.01.5770.tooltip=
     S:gt.metaitem.01.58.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.58.tooltip=Sb
-    S:gt.metaitem.01.5810.name=Crushed %material Ore
+    S:gt.metaitem.01.5810.name=Дробленая руда красного камня
     S:gt.metaitem.01.5810.tooltip=Si(FeS₂)₅CrAl₂O₃Hg₃
     S:gt.metaitem.01.5812.name=Crushed %material Ore
     S:gt.metaitem.01.5812.tooltip=Rp
@@ -38431,7 +38431,7 @@ languagefile {
     S:gt.metaitem.01.5841.tooltip=WLi₂O₄
     S:gt.metaitem.01.5842.name=Crushed %material Ore
     S:gt.metaitem.01.5842.tooltip=Ca₃Cr₂Si₃O₁₂
-    S:gt.metaitem.01.5855.name=Crushed %material Ore
+    S:gt.metaitem.01.5855.name=Дробленая халькопиритовая руда
     S:gt.metaitem.01.5855.tooltip=CuFeS₂
     S:gt.metaitem.01.5861.name=Crushed %material Ore
     S:gt.metaitem.01.5861.tooltip=
@@ -38519,7 +38519,7 @@ languagefile {
     S:gt.metaitem.01.5926.tooltip=
     S:gt.metaitem.01.5927.name=Ground %material
     S:gt.metaitem.01.5927.tooltip=NaMg₆Si₁₂H₆(H₂O)₅O₃₆
-    S:gt.metaitem.01.5928.name=Ground %material
+    S:gt.metaitem.01.5928.name=Измельчёная фуллеровская земля
     S:gt.metaitem.01.5928.tooltip=MgSi₄H(H₂O)₄O₁₁
     S:gt.metaitem.01.5929.name=Ground %material
     S:gt.metaitem.01.5929.tooltip=Al₂Si₂H₄O₉
@@ -38531,13 +38531,13 @@ languagefile {
     S:gt.metaitem.01.5932.tooltip=Fe₃Al₄Si₄H₂(H₂O)₄O₁₂
     S:gt.metaitem.01.5933.name=Crushed %material Ore
     S:gt.metaitem.01.5933.tooltip=KMg₂Al₄H₂O₁₂
-    S:gt.metaitem.01.5934.name=Crushed %material Ore
+    S:gt.metaitem.01.5934.name=Дробленая гипсовая руда
     S:gt.metaitem.01.5934.tooltip=CaS(H₂O)₂O₄
-    S:gt.metaitem.01.5935.name=Ground %material
+    S:gt.metaitem.01.5935.name=Измельчёный базальтовый минеральный песок
     S:gt.metaitem.01.5935.tooltip=Fe₃O₄Mg₂Fe(SiO₂)₂(CaCO₃)₃(SiO₂)₈C₄
-    S:gt.metaitem.01.5936.name=Ground %material
+    S:gt.metaitem.01.5936.name=Измельчёный гранитный минеральный песок
     S:gt.metaitem.01.5936.tooltip=Fe₃O₄(SiO₂)₄KMg₃Al₃F₂Si₃O₁₀
-    S:gt.metaitem.01.5937.name=Молотый касситеритовый песок
+    S:gt.metaitem.01.5937.name=Измельчёный касситеритовый песок
     S:gt.metaitem.01.5937.tooltip=SnO₂
     S:gt.metaitem.01.5938.name=Ground %material
     S:gt.metaitem.01.5938.tooltip=(Al₂Mg₃Si₃O₁₂)₃(Al₂Fe₃Si₃O₁₂)₅(Al₂Mn₃Si₃O₁₂)₈(Ca₃Fe₂Si₃O₁₂)₅(Ca₃Al₂Si₃O₁₂)₈(Ca₃Cr₂Si₃O₁₂)₃
