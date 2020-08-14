@@ -25519,13 +25519,13 @@ languagefile {
     S:gt.metaitem.01.11302.tooltip=Fe₂Ni
     S:gt.metaitem.01.11303.name=Электрумовый слиток
     S:gt.metaitem.01.11303.tooltip=AgAu
-    S:gt.metaitem.01.11304.name=Железный слиток
+    S:gt.metaitem.01.11304.name=Слиток кованого железа
     S:gt.metaitem.01.11304.tooltip=Fe
     S:gt.metaitem.01.11305.name=Стальной слиток
     S:gt.metaitem.01.11305.tooltip=Fe₅₀C
     S:gt.metaitem.01.11306.name=Слиток нержавеющей стали
     S:gt.metaitem.01.11306.tooltip=Fe₆CrMnNi
-    S:gt.metaitem.01.11307.name=Слиток кованного железо
+    S:gt.metaitem.01.11307.name=Слиток чугуна
     S:gt.metaitem.01.11307.tooltip=Fe
     S:gt.metaitem.01.11308.name=Слиток красного сплава
     S:gt.metaitem.01.11308.tooltip=Cu(Si(FeS₂)₅CrAl₂O₃Hg₃)₄
