@@ -30667,7 +30667,7 @@ languagefile {
     S:gt.metaitem.01.2056.tooltip=In
     S:gt.metaitem.01.2057.name=%material Dust
     S:gt.metaitem.01.2057.tooltip=Sn
-    S:gt.metaitem.01.2058.name=%material Dust
+    S:gt.metaitem.01.2058.name=Сурьмяная пыль
     S:gt.metaitem.01.2058.tooltip=Sb
     S:gt.metaitem.01.2059.name=%material Dust
     S:gt.metaitem.01.2059.tooltip=Te
