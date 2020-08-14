@@ -28573,7 +28573,7 @@ languagefile {
     S:gt.metaitem.01.17302.tooltip=Fe₂Ni
     S:gt.metaitem.01.17303.name=%material Plate
     S:gt.metaitem.01.17303.tooltip=AgAu
-    S:gt.metaitem.01.17304.name=%material Plate
+    S:gt.metaitem.01.17304.name=Плита из кованого железа
     S:gt.metaitem.01.17304.tooltip=Fe
     S:gt.metaitem.01.17305.name=%material Plate
     S:gt.metaitem.01.17305.tooltip=Fe₅₀C
@@ -31755,7 +31755,7 @@ languagefile {
     S:gt.metaitem.01.23037.tooltip=Ga
     S:gt.metaitem.01.23039.name=%material Rod
     S:gt.metaitem.01.23039.tooltip=As
-    S:gt.metaitem.01.2304.name=%material Dust
+    S:gt.metaitem.01.2304.name=Пыль кованого железа
     S:gt.metaitem.01.2304.tooltip=Fe
     S:gt.metaitem.01.23043.name=%material Rod
     S:gt.metaitem.01.23043.tooltip=Rb
