@@ -28435,7 +28435,7 @@ languagefile {
     S:gt.metaitem.01.16992.tooltip=Nq₄In₂Pd₆Os
     S:gt.metaitem.01.17.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.17.tooltip=Na
-    S:gt.metaitem.01.17006.name=%material Plate
+    S:gt.metaitem.01.17006.name=Литиевая пластина
     S:gt.metaitem.01.17006.tooltip=Li
     S:gt.metaitem.01.17008.name=%material Plate
     S:gt.metaitem.01.17008.tooltip=Be
@@ -30311,7 +30311,7 @@ languagefile {
     S:gt.metaitem.01.20058.tooltip=Sb
     S:gt.metaitem.01.20059.name=Quadruple %material Plate
     S:gt.metaitem.01.20059.tooltip=Te
-    S:gt.metaitem.01.2006.name=%material Dust
+    S:gt.metaitem.01.2006.name=Литиевая пыль
     S:gt.metaitem.01.2006.tooltip=Li
     S:gt.metaitem.01.20062.name=Quadruple %material Plate
     S:gt.metaitem.01.20062.tooltip=Cs
@@ -31711,7 +31711,7 @@ languagefile {
     S:gt.metaitem.01.22992.tooltip=Nq₄In₂Pd₆Os
     S:gt.metaitem.01.2300.name=%material Dust
     S:gt.metaitem.01.2300.tooltip=SnCu₃
-    S:gt.metaitem.01.23006.name=%material Rod
+    S:gt.metaitem.01.23006.name=Литиевый стержень
     S:gt.metaitem.01.23006.tooltip=Li
     S:gt.metaitem.01.23008.name=%material Rod
     S:gt.metaitem.01.23008.tooltip=Be
@@ -38011,7 +38011,7 @@ languagefile {
     S:gt.metaitem.01.4984.tooltip=Fl
     S:gt.metaitem.01.500.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.500.tooltip=C
-    S:gt.metaitem.01.5006.name=Crushed %material Ore
+    S:gt.metaitem.01.5006.name=Дробленая литиевая руда
     S:gt.metaitem.01.5006.tooltip=Li
     S:gt.metaitem.01.5008.name=Crushed %material Ore
     S:gt.metaitem.01.5008.tooltip=Be
@@ -38603,9 +38603,9 @@ languagefile {
     S:gt.metaitem.01.5984.tooltip=Fl
     S:gt.metaitem.01.599.name=Крошечная кучка %material Dust
     S:gt.metaitem.01.599.tooltip=C₂₀N₄H₁₂
-    S:gt.metaitem.01.6.name=Крошечная кучка %material Dust
+    S:gt.metaitem.01.6.name=Крошечная кучка литиевой пыли
     S:gt.metaitem.01.6.tooltip=Li
-    S:gt.metaitem.01.6006.name=Purified %material Ore
+    S:gt.metaitem.01.6006.name=Очищенная литиевая руда
     S:gt.metaitem.01.6006.tooltip=Li
     S:gt.metaitem.01.6008.name=Purified %material Ore
     S:gt.metaitem.01.6008.tooltip=Be
