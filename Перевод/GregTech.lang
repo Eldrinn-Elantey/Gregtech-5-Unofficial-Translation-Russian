@@ -11,7 +11,7 @@ languagefile {
     S:"Book.Microwave Oven Manual.Page01"=You just got a Microwave Oven and asked yourself 'why do I even need it?'. It's simple, the Microwave can cook for just 128 EU and at an insane speed. Not even a normal E-furnace can do it that fast and cheap!
     S:"Book.Microwave Oven Manual.Page02"=This is the cheapest and fastest way to cook for you. That is why the Microwave Oven can be found in almost every Kitchen (see www.youwannabuyakitchen.ly).
     S:"Book.Microwave Oven Manual.Page03"=Long time exposure to Microwaves can cause Cancer, but we doubt Steve lives long enough to die because of that.
-    S:"Book.Microwave Oven Manual.Page04"=Do not insert any Metals. It might result in an Explosion.
+    S:"Book.Microwave Oven Manual.Page04"=Не кладите никаких металлов. Это может привести к взрыву.
     S:"Book.Microwave Oven Manual.Page05"=Do not dry Animals with it. It will result in a Hot Dog, no matter which Animal you put into it.
     S:"Book.Microwave Oven Manual.Page06"=Do not insert inflammable Objects. The Oven will catch on Fire.
     S:"Book.Microwave Oven Manual.Page07"=Не вставляйте взрывчатые вещества, например, яйца. Не надо!
@@ -129,7 +129,7 @@ languagefile {
     S:Interaction_DESCRIPTION_Index_087=Отключено
     S:Interaction_DESCRIPTION_Index_088=Включено
     S:Interaction_DESCRIPTION_Index_089=  Auto-Output: 
-    S:Interaction_DESCRIPTION_Index_090=Machine Processing: 
+    S:Interaction_DESCRIPTION_Index_090=Машинная обработка: 
     S:Interaction_DESCRIPTION_Index_091=Redstone Output at Side 
     S:Interaction_DESCRIPTION_Index_092= set to: 
     S:Interaction_DESCRIPTION_Index_093=Strong
@@ -171,8 +171,8 @@ languagefile {
     S:Interaction_DESCRIPTION_Index_129=Energy 
     S:Interaction_DESCRIPTION_Index_130=Fluids 
     S:Interaction_DESCRIPTION_Index_131=Items 
-    S:Interaction_DESCRIPTION_Index_132=Pipe is loose.
-    S:Interaction_DESCRIPTION_Index_133=Screws are loose.
+    S:Interaction_DESCRIPTION_Index_132=Труба ослабла.
+    S:Interaction_DESCRIPTION_Index_133=Винты ослаблены.
     S:Interaction_DESCRIPTION_Index_134=Something is stuck.
     S:Interaction_DESCRIPTION_Index_135=Platings are dented.
     S:Interaction_DESCRIPTION_Index_136=Circuitry burned out.
