@@ -8750,7 +8750,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_862_Index_17=Controller Block for Industrial Arc Furnace
     S:TileEntity_DESCRIPTION_862_Index_18=250% faster than using single block machines of the same voltage
     S:TileEntity_DESCRIPTION_862_Index_19=Processes 8 items per voltage tier
-    S:TileEntity_DESCRIPTION_862_Index_20=Ра: nx3xn [WxHxL] (Hollow)
+    S:TileEntity_DESCRIPTION_862_Index_20=Размер: nx3xn [WxHxL] (Hollow)
     S:TileEntity_DESCRIPTION_862_Index_21=n может быть 3, 5 или 7
     S:TileEntity_DESCRIPTION_862_Index_22=Max Size required to process Plasma recipes
     S:TileEntity_DESCRIPTION_862_Index_23=gtplusplus.blockcasings.4.3.names (10 at least!)
