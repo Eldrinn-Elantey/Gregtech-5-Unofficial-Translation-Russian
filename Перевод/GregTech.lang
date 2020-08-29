@@ -13512,7 +13512,7 @@ languagefile {
     S:gt.blockmachines.multimachine.adv.vacuumfurnace.name=Utupu-Tanuri
     S:gt.blockmachines.multimachine.airfilter.name=Electric Air Filter
     S:gt.blockmachines.multimachine.assemblyline.name=Assembling Line
-    S:gt.blockmachines.multimachine.blastfurnace.name=Electric Blast Furnace
+    S:gt.blockmachines.multimachine.blastfurnace.name=Электрическая доменная печь
     S:gt.blockmachines.multimachine.boiler.bronze.name=Large Bronze Boiler
     S:gt.blockmachines.multimachine.boiler.steel.name=Large Steel Boiler
     S:gt.blockmachines.multimachine.boiler.titanium.name=Large Titanium Boiler
