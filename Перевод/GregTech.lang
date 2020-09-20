@@ -8436,7 +8436,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_796_Index_28=1x выхлопной клапан
     S:TileEntity_DESCRIPTION_796_Index_29=1x люк технического обслуживания
     S:TileEntity_DESCRIPTION_796_Index_30=Тип машины: §eЭлектролизёр§r
-    S:TileEntity_DESCRIPTION_796_Index_31=Вызывает 300 единиц загрязнения в секунду
+    S:TileEntity_DESCRIPTION_796_Index_31=Производит 300 единиц загрязнения в секунду
     S:TileEntity_DESCRIPTION_797_Index_15=Controller Block for the Industrial Maceration Stack
     S:TileEntity_DESCRIPTION_797_Index_16=На 60% быстрее, чем при использовании одноблочных машин того же напряжения 
     S:TileEntity_DESCRIPTION_797_Index_17=Обрабатывает 8*уровень материалов за раз
