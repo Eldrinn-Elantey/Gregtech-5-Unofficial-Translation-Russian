@@ -17262,7 +17262,7 @@ languagefile {
     S:gt.blockores.2019.name=%material Ore
     S:gt.blockores.2020.name=%material Ore
     S:gt.blockores.2021.name=%material Ore
-    S:gt.blockores.2022.name=%material Ore
+    S:gt.blockores.2022.name=Серная руда
     S:gt.blockores.2023.name=%material Ore
     S:gt.blockores.2024.name=%material Ore
     S:gt.blockores.20241.name=Small %material Ore
@@ -30393,7 +30393,7 @@ languagefile {
     S:gt.metaitem.01.2020.tooltip=Si
     S:gt.metaitem.01.2021.name=%material Dust
     S:gt.metaitem.01.2021.tooltip=P
-    S:gt.metaitem.01.2022.name=%material Dust
+    S:gt.metaitem.01.2022.name=Серная пыль
     S:gt.metaitem.01.2022.tooltip=S
     S:gt.metaitem.01.2025.name=%material Dust
     S:gt.metaitem.01.2025.tooltip=K
@@ -34297,7 +34297,7 @@ languagefile {
     S:gt.metaitem.01.28037.tooltip=Ga
     S:gt.metaitem.01.28039.name=%material Ring
     S:gt.metaitem.01.28039.tooltip=As
-    S:gt.metaitem.01.2804.name=%material Dust
+    S:gt.metaitem.01.2804.name=Обсидиановая пыль
     S:gt.metaitem.01.2804.tooltip=MgFeSi₂O₈
     S:gt.metaitem.01.28043.name=%material Ring
     S:gt.metaitem.01.28043.tooltip=Rb
