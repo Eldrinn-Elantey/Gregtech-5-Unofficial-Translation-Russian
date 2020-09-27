@@ -16594,7 +16594,7 @@ languagefile {
     S:gt.blockores.1928.name=%material
     S:gt.blockores.1929.name=%material
     S:gt.blockores.19299.name=Small %material Ore
-    S:gt.blockores.1930.name=%material Ore
+    S:gt.blockores.1930.name=Коричневая лимонитовая руда
     S:gt.blockores.19300.name=Small %material Ore
     S:gt.blockores.19301.name=Small %material Ore
     S:gt.blockores.19302.name=Small %material Ore
@@ -29799,7 +29799,7 @@ languagefile {
     S:gt.metaitem.01.1915.tooltip=CaSiO₃
     S:gt.metaitem.01.1916.name=Небольшая кучка %material Dust
     S:gt.metaitem.01.1916.tooltip=NaCa₄Si₂₇Al₉(H₂O)₂₈O₇₂
-    S:gt.metaitem.01.1917.name=Небольшая кучка %material Dust
+    S:gt.metaitem.01.1917.name=Небольшая кучка полосатой железной пыли
     S:gt.metaitem.01.1917.tooltip=Fe₂O₃
     S:gt.metaitem.01.1918.name=Небольшая кучка %material Dust
     S:gt.metaitem.01.1918.tooltip=FeTiO₃
@@ -29825,7 +29825,7 @@ languagefile {
     S:gt.metaitem.01.1928.tooltip=MgSi₄H(H₂O)₄O₁₁
     S:gt.metaitem.01.1929.name=Small Pile of %material
     S:gt.metaitem.01.1929.tooltip=Al₂Si₂H₄O₉
-    S:gt.metaitem.01.1930.name=Небольшая кучка %material Dust
+    S:gt.metaitem.01.1930.name=Небольшая кучка коричневой лимонитовой пыли
     S:gt.metaitem.01.1930.tooltip=FeHO₂
     S:gt.metaitem.01.19300.name=Triple %material Plate
     S:gt.metaitem.01.19300.tooltip=SnCu₃
