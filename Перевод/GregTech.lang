@@ -38,7 +38,7 @@ languagefile {
     S:"Book.Punch Card Manual V0.0.Page10"=For implementing Loops you just need 1 Punch Card per Loop, these Cards can restart once they are finished, depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.
     S:"Book.Punch Card Manual V0.0.Page11"=A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.
     S:"Book.Punch Card Manual V0.0.Page12"=Why does the Punch Card need Ink to be made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.
-    S:"Escherichia cadaver"=Rotten Flesh Bacteria
+    S:"Escherichia cadaver"=Бактерии гнилой плоти
     S:"Escherichia koli"=eColi Bacteria
     S:Interaction_DESCRIPTION_Index_001=Выводится в соседний слот #
     S:Interaction_DESCRIPTION_Index_002=Захватывает свой слот #
