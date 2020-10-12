@@ -11969,11 +11969,11 @@ languagefile {
     S:gt.blockmachines.batteryturbocharger.16.tier.07.name=ZPM Voltage Turbo Charger
     S:gt.blockmachines.batteryturbocharger.16.tier.08.name=Ultimate Voltage Turbo Charger
     S:gt.blockmachines.batteryturbocharger.16.tier.09.name=Highly Ultimate Voltage Turbo Charger
-    S:gt.blockmachines.boiler.bronze.name=Small Coal Boiler
-    S:gt.blockmachines.boiler.lava.name=High Pressure Lava Boiler
-    S:gt.blockmachines.boiler.solar.name=Simple Solar Boiler
-    S:gt.blockmachines.boiler.steel.name=High Pressure Coal Boiler
-    S:gt.blockmachines.boiler.steel.solar.name=High Pressure Solar Boiler
+    S:gt.blockmachines.boiler.bronze.name=Малый угольный бойлер
+    S:gt.blockmachines.boiler.lava.name=Лавовый бойлер высокого давления
+    S:gt.blockmachines.boiler.solar.name=Простой солнечный бойлер
+    S:gt.blockmachines.boiler.steel.name=Угольный бойлер высокого давления
+    S:gt.blockmachines.boiler.steel.solar.name=Солнечный бойлер высокого давления
     S:gt.blockmachines.breaker.tier.00.name=Ultra Low Voltage Breaker Box
     S:gt.blockmachines.breaker.tier.01.name=Low Voltage Breaker Box
     S:gt.blockmachines.breaker.tier.02.name=Medium Voltage Breaker Box
