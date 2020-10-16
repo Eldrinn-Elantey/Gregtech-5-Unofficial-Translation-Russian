@@ -12230,12 +12230,12 @@ languagefile {
     S:gt.blockmachines.cable.tetranaquadahdiindiumhexaplatiumosminid.08.name=8x %material Cable
     S:gt.blockmachines.cable.tetranaquadahdiindiumhexaplatiumosminid.12.name=12x %material Cable
     S:gt.blockmachines.cable.tetranaquadahdiindiumhexaplatiumosminid.16.name=16x %material Cable
-    S:gt.blockmachines.cable.tin.01.name=1x %material Cable
-    S:gt.blockmachines.cable.tin.02.name=2x %material Cable
-    S:gt.blockmachines.cable.tin.04.name=4x %material Cable
-    S:gt.blockmachines.cable.tin.08.name=8x %material Cable
-    S:gt.blockmachines.cable.tin.12.name=12x %material Cable
-    S:gt.blockmachines.cable.tin.16.name=16x %material Cable
+    S:gt.blockmachines.cable.tin.01.name=1x оловянный кабель
+    S:gt.blockmachines.cable.tin.02.name=2x оловянный кабель
+    S:gt.blockmachines.cable.tin.04.name=4x оловянный кабель
+    S:gt.blockmachines.cable.tin.08.name=8x оловянный кабель
+    S:gt.blockmachines.cable.tin.12.name=12x оловянный кабель
+    S:gt.blockmachines.cable.tin.16.name=16x оловянный кабель
     S:gt.blockmachines.cable.titanium.01.name=1x %material Cable
     S:gt.blockmachines.cable.titanium.02.name=2x %material Cable
     S:gt.blockmachines.cable.titanium.04.name=4x %material Cable
@@ -54585,3 +54585,5 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] Превращение металлов в цинк
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] Превращение дерева в древесный уголь
 }
+
+
