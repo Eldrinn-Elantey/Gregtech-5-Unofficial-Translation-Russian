@@ -28573,7 +28573,7 @@ languagefile {
     S:gt.metaitem.01.17302.tooltip=Fe₂Ni
     S:gt.metaitem.01.17303.name=%material Plate
     S:gt.metaitem.01.17303.tooltip=AgAu
-    S:gt.metaitem.01.17304.name=Плита из кованого железа
+    S:gt.metaitem.01.17304.name=Пластина из кованого железа
     S:gt.metaitem.01.17304.tooltip=Fe
     S:gt.metaitem.01.17305.name=%material Plate
     S:gt.metaitem.01.17305.tooltip=Fe₅₀C
