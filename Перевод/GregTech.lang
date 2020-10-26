@@ -262,14 +262,14 @@ languagefile {
     S:Item_DESCRIPTION_Index_003=Урон от атаки: %s
     S:Item_DESCRIPTION_Index_004=Скорость добычи: %s
     S:Item_DESCRIPTION_Index_005=Эффективность турбины: %s
-    S:Item_DESCRIPTION_Index_006=Оптимальный поток пара: %sЛ/сек
-    S:Item_DESCRIPTION_Index_007=Оптимальный поток газа(стоимость сжигания еЭ за такт): %sеЭ/такт
-    S:Item_DESCRIPTION_Index_008=Оптимальный поток плазмы(Энергетическая ценность плазмы за такт): %sеЭ/такт
+    S:Item_DESCRIPTION_Index_006=Оптимальный поток пара: %s Л/сек
+    S:Item_DESCRIPTION_Index_007=Оптимальный поток газа(стоимость сжигания еЭ за такт): %s еЭ/такт
+    S:Item_DESCRIPTION_Index_008=Оптимальный поток плазмы(Энергетическая ценность плазмы за такт): %s еЭ/такт
     S:Item_DESCRIPTION_Index_009=Содержит %s еЭ   Уровень: %s
     S:Item_DESCRIPTION_Index_010=Пусто. Вы должны утилизировать его должным образом.
     S:Item_DESCRIPTION_Index_011=%s / %s еЭ - Напряжение: %s
     S:Item_DESCRIPTION_Index_012=Никаких жидкостей не содержится
-    S:Item_DESCRIPTION_Index_013=%sЛ / %sЛ
+    S:Item_DESCRIPTION_Index_013=%s Л / %s Л
     S:Item_DESCRIPTION_Index_014=Отсутствуют координаты!
     S:Item_DESCRIPTION_Index_015=Устройство в:
     S:Item_DESCRIPTION_Index_016=Количество: %s Л
@@ -1009,7 +1009,7 @@ languagefile {
     S:Material.radoxgas=Radox Gas
     S:Material.radoxpoly=Radox Polymer
     S:Material.randomite=Randomite
-    S:Material.rareearth=Редкие земли
+    S:Material.rareearth=Редкоземельные элементы
     S:Material.rawgasoline=Сырой бензин
     S:Material.rawradox=Raw Radox
     S:Material.rawrubber=Raw Rubber
@@ -35067,7 +35067,7 @@ languagefile {
     S:gt.metaitem.01.2921.tooltip=MnTa₂O₆
     S:gt.metaitem.01.2922.name=%material пыль
     S:gt.metaitem.01.2922.tooltip=UO₂
-    S:gt.metaitem.01.2923.name=%material пыль
+    S:gt.metaitem.01.2923.name=Ванадиевая магнетитовая пыль
     S:gt.metaitem.01.2923.tooltip=Fe₃O₄V
     S:gt.metaitem.01.2924.name=%material пыль
     S:gt.metaitem.01.2924.tooltip=Al₂SiO₅
