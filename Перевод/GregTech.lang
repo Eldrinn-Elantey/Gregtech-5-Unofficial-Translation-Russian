@@ -625,7 +625,7 @@ languagefile {
     S:Material.custommat15=CustomOre15
     S:Material.cyanite=Cyanite
     S:Material.dacite=Dacite
-    S:Material.damascussteel=Damascus Steel
+    S:Material.damascussteel=Дамасская сталь
     S:Material.darkash=Dark Ashes
     S:Material.darkiron=Dark Iron
     S:Material.darksteel=Dark Steel
@@ -23973,7 +23973,7 @@ languagefile {
     S:gt.bwMetaGenerateddust.97.name=Raw Ademic Steel Dust
     S:gt.bwMetaGenerateddust.97.tooltip=(Fe₅₀C)₂VCr(Fe₅₀C)₇Fe₅₀C
     S:gt.bwMetaGenerateddust.name=Generated Item
-    S:gt.bwMetaGenerateddustImpure.1.name=Impure Pile of Bismutite Dust
+    S:gt.bwMetaGenerateddustImpure.1.name=Неочищенная куча висмутитовой пыли
     S:gt.bwMetaGenerateddustImpure.1.tooltip=Bi₂O₂(CO₂)₂
     S:gt.bwMetaGenerateddustImpure.10.name=Impure Pile of Arsenopyrite Dust
     S:gt.bwMetaGenerateddustImpure.10.tooltip=FeAsS
@@ -25531,11 +25531,11 @@ languagefile {
     S:gt.metaitem.01.11308.tooltip=Cu(Si(FeS₂)₅CrAl₂O₃Hg₃)₄
     S:gt.metaitem.01.11309.name=Слиток синего сплава
     S:gt.metaitem.01.11309.tooltip=AgRp₄
-    S:gt.metaitem.01.11310.name=Слиток купроникеля
+    S:gt.metaitem.01.11310.name=Мельхиоровый слиток
     S:gt.metaitem.01.11310.tooltip=CuNi
-    S:gt.metaitem.01.11311.name=Слиток нихрома
+    S:gt.metaitem.01.11311.name=Нихромовый слиток
     S:gt.metaitem.01.11311.tooltip=Ni₄Cr
-    S:gt.metaitem.01.11312.name=Слиток нихрома
+    S:gt.metaitem.01.11312.name=Канталовый слиток
     S:gt.metaitem.01.11312.tooltip=FeAlCr
     S:gt.metaitem.01.11313.name=Магналиевый слиток
     S:gt.metaitem.01.11313.tooltip=MgAl₂
