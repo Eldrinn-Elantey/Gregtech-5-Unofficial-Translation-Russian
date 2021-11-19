@@ -9,4 +9,4 @@
 
 
 ### Помощь
-Если в ходе использования перевода Вы заметили ошибки про сообщить об этом в [багтрекере](https://github.com/EldrinnElantey/Gregtech-5-Unofficial-Translation-Russian/issues) или через Discord: Eldrinn#0399
+Если в ходе использования перевода Вы заметили ошибки про сообщить об этом в [багтрекере](https://github.com/EldrinnElantey/Gregtech-5-Unofficial-Translation-Russian/issues) или через Discord: Eldrinn Elantey#0399
